@@ -1,30 +1,25 @@
 # GithubPagesPersonal
 
-# Activity 6 - GitHub Pages Project Webpage
+# Activity 5 - GitHub Pages Personal Bio
 
-In this activity you'll practice creating github pages with projects. You'll build a website about your favorite type of animal!
+Now that we have gone over how to create a personal website using GitHub Pages, it is time to publish your own personal website! See the guide below as a reminder of what steps you need to take. 
 
 ### Instructions
 
-Make a simple website about your favorite type of animal.
-
-* Create a header that will act as a title for the page
-* Create a few short paragraphs describing the animal's best characteristics. 
-* Include at least one picture of the animal
-
-* Once you have created your HTML add, commit, and push your files up to GitHub Pages.
-  * Make sure to navigate to your page in the web browser to ensure your website is live
+* Build a basic HTML page and deploy it to github pages.
+* Once your personal webpage is live, slack out the link to it so that everyone can see what you have made.
 
 ### Guide
 
-1. Create a new repository on your GitHub account. *You can name this repository whatever you would like.*
-2. Once inside of the repository, create a new file and name it `index.html`
-3. Add your HTML into this file, save it, and then navigate into your repository's `Settings` tab.
-4. Scroll down to the GitHub Pages section and then, in the section labeled `Source`, select that you would like to use the `master` branch as your source.
-5. Navigate to `<<YOUR USERNAME>>.github.io/<<REPO NAME YOU CHOSE>>` and you will find that your new web page has gone live! (For example, if your GitHub username is `johndoe` and the project is `cssDemo`, your URL would be `johndoe.github.io/cssDemo`) 
+1. Create a new repo that is named `<<YOUR USERNAME>>.github.io` where <<YOUR USERNAME>> is your GitHub username. Double check that you use exactly your username. (For example, janedoe.github.io would be the GitHub pages repo name for the GitHub user "janedoe")  
+2. Navigate into a folder and clone the repo into it
+3. Add an HTML file named `index.html` and code out a basic webpage (or use a previous page)
+4. Add, commit, and push your changes into the repository
+5. Navigate to `<<YOUR_USERNAME>>.github.io` and you will find that your new web page has gone live! (again, where <<YOUR USERNAME>> is your GitHub username. - we just use that as a placeholder.)
 
 ### Bonuses
 
-* See if you can use your personal site from the previous activity as a portfolio that can be used to show off all of the work you have done in the past. Update it to link to this activity's site.
-* Try to create a navigation system which links from your personal website to this new animal site and vice-versa.
-* Have some fun! Test your HTML and CSS skills by going above and beyond with your page!
+* Spruce up your personal website page: add extra tags and flesh your page out some more - give it some pop
+* Push updates to your personal website multiple times. You'll see it update on the live URL!
+* Add a few new pages to your website
+* Add CSS to your deployed webpage, including a CSS Reset
